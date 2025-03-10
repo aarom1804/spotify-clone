@@ -1,3 +1,64 @@
+.container{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.container img{
+    width: 150px;
+    height: auto;    
+}
+.container a{
+    padding: 0 5px;
+    font-size:x-large;
+    text-decoration: none;
+    color: gray;    
+}
+.page-01{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+.page-01 img{
+    width: 100%;
+    height: 100%;
+    z-index: 10;      
+}
+.page-01 p{
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    z-index: 50;
+    width: 400px;
+    text-align: center;     
+}
+.page-01 em{
+    text-decoration: none;
+    font-size: 50px;
+}
+
+/*-----------------------------*/
+
+.page-02{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-01 img{
+    width: 100px;
+    height: 50px;
+}
+
+.box-02 img{
+    width: 100px;
+    height: 50px;
+}
+.box-03 img{
+    width: 100px;
+    height: 50px;
+}
 /*
 Colors:
 
