@@ -44,8 +44,16 @@ align-items: center;
     position: relative;
     justify-content: center;
     align-items: center;
+    border: 1px solid black;
+    flex-direction: row;
 }
 
+.boxes img{
+    width: 100px;
+    height: 50px;
+}
+
+/*
 .box-01 img{
     width: 100px;
     height: 50px;
@@ -59,6 +67,7 @@ align-items: center;
     width: 100px;
     height: 50px;
 }
+*/
 /*
 Colors:
 
