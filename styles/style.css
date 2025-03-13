@@ -80,16 +80,34 @@ padding: 5px 0px;
     
 }
 
+/*--------------------------------------------------------------------*/
+
+.page-03{
+    background-color: #00B172;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.page-03 img{
+    height: 350px;
+    margin: 100px 0px;
+}
+.page-03 h1{
+    border-bottom: solid white 2px;
+}
+.center img{
+    width: 100px;
+    height: 100px;
+}
 
 
 
 
 
 
-
-
-
-
+/*--------------------------------------------------------------------*/
 
 @media(650px <= width <= 1000px){
 /*------------------TABLET------------------*/
