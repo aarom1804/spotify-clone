@@ -88,6 +88,10 @@ padding: 5px 0px;
     color: white;
     justify-content: space-around;
     align-items: center;
+    background-image: url(../images/spotify-icon-white.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100px;
     
 }
 .page-03 img{
@@ -97,10 +101,7 @@ padding: 5px 0px;
 .page-03 h1{
     border-bottom: solid white 2px;
 }
-.center img{
-    width: 100px;
-    height: 100px;
-}
+
 
 
 
